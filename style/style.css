@@ -743,8 +743,32 @@ padding: 5px;
 border: solid rgb(238, 238, 238) 5px;
 align-items: center;
 border-radius: 10px;
-margin-left: 900px;
+margin-left: 1042px;
 width: 620px;
 position: absolute;
 top: 250px;
+}
+
+.container-yo1{
+display: flex;
+position: absolute;
+padding: 15px;
+border: solid rgb(238, 238, 238) 5px;
+border-radius: 10px;
+top: 650px;
+margin-left: 260px;
+width: 1405px;
+height: 180px;
+
+}
+
+.yo4{
+position: absolute;
+top: 10px;
+margin-right: 500px;
+border: solid rgb(238, 238, 238) 5px;
+border-radius: 10px;
+
+
+
 }
