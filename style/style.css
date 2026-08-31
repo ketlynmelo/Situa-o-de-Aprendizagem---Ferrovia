@@ -766,11 +766,24 @@ height: 180px;
 
 .yo4{
 position: absolute;
-top: 10px;
+top: 70px;
 margin-right: 500px;
-border: solid rgb(238, 238, 238) 5px;
+border: solid rgb(248, 209, 37) 5px;
 border-radius: 10px;
+height: 50px;
+padding: 10px;
+width: 660px;
+background-color: rgba(252, 224, 102, 0.87);
+}
 
-
-
+.yo5{
+position: absolute;
+top: 70px;
+margin-left: 680px;
+border: solid rgb(211, 8, 8) 5px;
+border-radius: 10px;
+height: 50px;
+padding: 10px;
+width: 680px;
+background-color: rgba(228, 87, 69, 0.87);
 }
