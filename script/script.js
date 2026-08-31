@@ -51,7 +51,7 @@ if (formLogin) {
     dados.push({ usuario, senha });
     console.table(dados);
     alert("Login realizado!");
-    window.location.href = "home.html";
+    window.location.href = "public/home.html";
     formLogin.reset();
   });
 }
