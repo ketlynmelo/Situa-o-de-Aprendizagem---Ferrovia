@@ -5,7 +5,7 @@ if (tabelaUsuarios) {
     { id: 1, nome: "Davi Sehnem", email: "Davi.S@gmail.com", tipo: "Administrador", status: "Ativo" },
     { id: 2, nome: "Amanda L.", email: "Amanda.L@gmail.com", tipo: "Usuario", status: "Ativo" },
     { id: 3, nome: "Fernando G.", email: "Fernando.G@gmail.com", tipo: "Usuario", status: "Ativo" },
-    { id: 4, nome: "Manuela B.", email: "Manula.Borba@gmail.com", tipo: "Usuario", status: "Inativo" },
+    { id: 4, nome: "Manuela B.", email: "Manuela.Borba@gmail.com", tipo: "Usuario", status: "Inativo" },
     { id: 5, nome: "Ana L.", email: "Ana.Jung@gmail.com", tipo: "Administrador", status: "Ativo" },
   ];
 
